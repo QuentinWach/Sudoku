@@ -10,4 +10,4 @@ Run `python main.py` in the terminal and a small 9x9 Sudoku will be generated th
 + `sudoku.show()` to display the sudoku visually using [matplotlib]() just like in the image above.
 + `sudoku.save_text()` to save a sudoku as a text file.
 ---
-+ `solver.solve_sudoku()` to find the solution for a given sudoku.
++ `solver.solve_sudoku()` to find the solution for a given Sudoku.
