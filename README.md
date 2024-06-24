@@ -18,7 +18,7 @@ See [Kyubyong's Sudoku implementation](https://github.com/Kyubyong/sudoku). It p
 
 **1st question**: What variation of Sudoku would require a neural network in order to be solvable in a reasonable time? Scaled up size and more numbers?
 
-**2nd question**: Can an AI learn the rules from Sudoku 
+**2nd question**: Can an AI learn the rules from Sudoku and execute them systematically
 + without any instructions in form of rules but
 + only given the smallest set of possible examples? 
 
